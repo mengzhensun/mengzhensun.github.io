@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'Indeed you must go, for it will be impossible for _us_ to visit him if you do not. You are over-scrupulous, surely.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'These reflections have dispelled the agitation with which I began my letter.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'These reflections have dispelled the agitation with which I began my letter.'      
 };
 
 function status(statusText) {
