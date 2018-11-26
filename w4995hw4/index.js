@@ -12,8 +12,7 @@ const examples = {
   'example2':
       'Six years have passed since I resolved on my present undertaking.',
   'example3':
-      'But he was a tight-fisted hand at the grind-stone,
-Scrooge!'      
+      'But he was a tight-fisted hand at the grind-stone, Scrooge!'      
 };
 
 function status(statusText) {
