@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'When she was discontented,she fancied herself nervous.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'I commenced by inuring my body to hardship.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'A frosty rime was on his head, and on his eyebrows, and his wiry chin.'      
 };
 
 function status(statusText) {
