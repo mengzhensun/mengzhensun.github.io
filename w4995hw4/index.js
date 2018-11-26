@@ -10,9 +10,10 @@ const examples = {
   'example1':
       'Indeed you must go, for it will be impossible for _us_ to visit him if you do not. You are over-scrupulous, surely.',
   'example2':
-      'These reflections have dispelled the agitation with which I began my letter.',
+      'Six years have passed since I resolved on my present undertaking.',
   'example3':
-      'These reflections have dispelled the agitation with which I began my letter.'      
+      'But he was a tight-fisted hand at the grind-stone,
+Scrooge!'      
 };
 
 function status(statusText) {
